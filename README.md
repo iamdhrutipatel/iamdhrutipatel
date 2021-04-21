@@ -1,3 +1,3 @@
-<h1 align="center">Hey World, thanks for the visit!</h1>
+<h2 align="center">Hey World, thanks for the visit!</h2>
 
 
