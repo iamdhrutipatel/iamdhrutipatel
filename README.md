@@ -3,7 +3,7 @@
 
 <br>
 ![](https://komarev.com/ghpvc/?username=iamdhrutipatel&color=red&style=flat)
-![Visits Badge](https://badges.pufler.dev/visits/iamdhrutipatel/?color=red)
+![Visits Badge](https://badges.pufler.dev/visits/iamdhrutipatel/iamdhrutipatel/?color=red)
 ![Repos Badge](https://badges.pufler.dev/repos/iamdhrutipatel/?color=red)
 ![Years Badge](https://badges.pufler.dev/years/iamdhrutipatel/?color=red)
 <br>
